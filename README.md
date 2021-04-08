@@ -2,7 +2,7 @@
 
 E-commerce desarrollado para una libreria artistica entregado en dic 2020
 
-El objetivo fue constaruir una App JS desde cero para aplicar las tecnologias aprendidas. Fue implementado por un grupo de 6 personas mediante la utilizacion de GIT y Trello para su gestion.
+El objetivo fue construir una App JS desde cero para aplicar las tecnologias aprendidas. Fue implementado por un grupo de 6 personas mediante la utilizacion de GIT y Trello para su gestion.
 
 Demo online: https://bomba-ecommerce.web.app/
 
