@@ -8,7 +8,7 @@ Demo online: https://bomba-ecommerce.web.app/
 
 E-commerce desarrollado con las tecnologias: PERN stack ( PostgreSQl, sequelize, Node js, Express js, React js, Redux js). Tambien fue utilizado Bootstrap y Material UI.
 
-El Usuario puede realizar las siguintes funciones:
+<b>El Usuario puede realizar las siguintes funciones:<b>
 
 Registar usuario<br>
 Login usuario<br>
@@ -27,9 +27,9 @@ Checkout informacion via Mail<br>
 Formulario de contacto a todos los admin via Mail<br>
 Filtado de productos por Categorias, SearchBar y catalogo completo<br>
 
-El Administrador puede realizar las siguintes funciones:
+<b>El Administrador puede realizar las siguintes funciones:<b>
 
-Para acceder como admin utilizar:<br>
+Para acceder como admin utilizar:
 usuario: admin@admin.com
 password: Pancho123
 
