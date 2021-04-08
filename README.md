@@ -1,12 +1,15 @@
-# e-commerce
-E-commerce bomba 
+# Bomba
+
+E-commerce desarrollado para una libreria artistica entregado en dic 2020
+
+El objetivo fue constaruir una App JS desde cero para aplicar las tecnologias aprendidas. Fue implementado por un grupo de 6 personas mediante la utilizacion de GIT y Trello para su gestion.
 
 Demo online: https://bomba-ecommerce.web.app/
 
 Usuario Admin: admin@admin.com
 password: Pancho123
 
-E-commerce desarrollado con las tecnologias:  PERN stack ( PostgreSQl, sequelize, Node js, Express js, React js, Redux js)
+E-commerce desarrollado con las tecnologias: PERN stack ( PostgreSQl, sequelize, Node js, Express js, React js, Redux js)
 
 funcionalidades de usuario:
 
@@ -36,13 +39,3 @@ Reasignar productos a categorias<br>
 Ascender un usuario a administrador<br>
 Bannear permanentemente a un usuario<br>
 Obligar a un usuario a que cambie su password<br>
-
-
-
-
-
-
-
-
-
-
