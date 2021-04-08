@@ -28,6 +28,7 @@ Formulario de contacto a todos los admin via Mail<br>
 Filtado de productos por Categorias, SearchBar y catalogo completo<br>
 
 El Administrador puede realizar las siguintes funciones:
+
 Para acceder como admin utilizar:<br>
 usuario: admin@admin.com
 password: Pancho123
