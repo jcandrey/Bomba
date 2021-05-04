@@ -2,6 +2,8 @@
 
 E-commerce desarrollado para una libreria artistica entregado en dic 2020
 
+![image](https://user-images.githubusercontent.com/70403449/117065500-fa3df580-acfd-11eb-899f-f58208eac97c.png)
+
 El objetivo fue construir una App JS desde cero para aplicar las tecnologias aprendidas. Fue implementado por un grupo de 6 personas mediante la utilizacion de GIT y Trello para su gestion.
 
 Demo online: https://bomba-ecommerce.web.app/
@@ -40,3 +42,9 @@ Reasignar productos a categorias<br>
 Ascender un usuario a administrador<br>
 Bannear permanentemente a un usuario<br>
 Obligar a un usuario a que cambie su password<br>
+
+![image](https://user-images.githubusercontent.com/70403449/117065568-104bb600-acfe-11eb-99b5-87ed5626792a.png)
+
+![image](https://user-images.githubusercontent.com/70403449/117065620-1cd00e80-acfe-11eb-89ca-e2d988fc690c.png)
+
+
